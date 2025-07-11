@@ -1,0 +1,1 @@
+# Reshon Zichron Offer Tool\n\nThis is a React-based tool to generate a binding sales agreement (Zichron Devarim) from a smart offer preview.
