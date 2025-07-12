@@ -17,4 +17,4 @@ export default function OfferView() {
       <GenerateZichronFromOffer offer={{ price, bonus, timeline }} />
     </div>
   );
-    }
+}
