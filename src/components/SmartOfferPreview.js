@@ -9,7 +9,7 @@ export default function SmartOfferPreview() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const offerId = 'demo123'; // temporary static ID
+    const offerId = 'demo123';
     navigate(`/offer/${offerId}`, {
       state: { price, bonus, timeline },
     });
