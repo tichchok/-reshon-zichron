@@ -23,4 +23,4 @@ export default function FinalizeAgreement({ text }) {
       <button onClick={handleDownload} disabled={!signed}>Download Draft</button>
     </div>
   );
-}
+          }
